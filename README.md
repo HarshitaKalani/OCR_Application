@@ -14,7 +14,7 @@
 Step 1: \
 Download or clone this repository by using the link below:
 ```
-https://github.com/Pranavchiku/OCR_Application.git
+https://github.com/HarshitaKalani/OCR_Application.git
 ```
 Step 2: \
 Open the project in an IDE and execute the following command in console to get the required dependencies:
